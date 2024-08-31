@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+django
+tkinter
+pymysql
+mysqlclient 
+pipenv
+pandas openpyxl
